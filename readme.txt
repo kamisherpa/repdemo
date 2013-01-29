@@ -1,3 +1,3 @@
-Hellow How are you . 
-I hope that you are doing great over there?
-I made third changes in this file 
+This is a simple test of version control system.
+I am having a fun at learning this technology
+
